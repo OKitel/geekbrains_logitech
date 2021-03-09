@@ -1,0 +1,216 @@
+body {
+    font-family: Roboto;
+}
+
+.heading {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+
+.text_margin{
+    margin-left: 34px;
+    margin-right: 32px;
+
+}
+
+.text_flow {
+  margin-bottom: 23px;
+  text-align: left; 
+  width: 222px;
+}
+
+.text_settings {
+    color: white;
+    margin-left: 5px;
+    margin-right: 11px;
+}
+
+.top__text-margin {
+    margin-left: 59px;
+    margin-right: 59px;
+}
+
+.center-content {
+    display: flex;
+    justify-content: center; 
+}
+
+.top {
+    background: #E0E1E2;
+    padding-top: 25px;
+    padding-bottom: 48px;
+}
+
+.top__image {
+    margin-top: 94px;
+    height: 230px;
+    background-image: url(img/MX-Master\ 1.png);
+    background-size: contain;
+    margin-bottom: 41px;
+    background-repeat: no-repeat;
+}
+
+.top__arrow {
+    margin-top: 40px;
+}
+
+.bluetooth {
+    background: #EDEDED;
+    padding-top: 42px;
+    padding-bottom: 22px;
+}
+
+.bluetooth__icon{
+    margin-bottom: 27px;
+}
+
+.bluetooth__heading {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 70px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #C4C4C4;
+    margin-top: 31px;
+}
+
+.bluetooth__img {
+    height: 284px;
+    background-image: url(img/High_Resolution_PNG-MX\ Master\ 3\ LEFT\ GRAPHITE\ 1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center bottom;
+}
+
+
+.info {
+    padding-top: 70px;
+    padding-bottom: 77px;
+}
+
+.info__item {
+    border: 1px solid #2F3132;
+    flex-basis: 166px;
+    min-height: 94px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.info__content {
+    margin-top: 30px;
+    margin-bottom: 28px;
+    display: flex;
+    justify-content: center;
+    gap: 6px;
+
+}
+
+.info__heading {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #2F3132;
+}
+
+.info__text {
+    margin-left: 67px;
+    margin-right: 61px;
+}
+
+
+.carousel {
+    margin-bottom: 100px;
+}
+
+.heading_info__item-heading {
+    margin-bottom: 5px;
+}
+
+.flow {
+    background: #EDEDED;
+    padding-top: 70px;
+    padding-bottom: 218px;
+    background-image: url(img/High_Resolution_JPG-MX\ Lifestyle\ 2346\ 1.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.flow__ol {
+    margin-top: 36px;
+    padding-left: 54px;
+}
+
+.settings {
+    background: #EDEDED;
+    padding-top: 70px;
+}
+
+.settings__slider {
+    margin: 35px 22px 98px 23px;
+}
+
+.settings__content {
+    background: #C4C4C4;
+    padding: 23px 22px 26px 29px;
+}
+
+.settings__icons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.mouse__text {
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+
+.mouse__img {
+    height: 310px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.mouse__img_1 {
+    background-image: url(img/image\ 1.jpg);
+}
+
+
+.mouse__img_2 {
+   background-image: url(img/image\ 2.jpg); 
+}
+
+.footer {
+    background: #2F3132;
+    height: 75px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 7px;
+    line-height: 8px;
+    text-align: center;
+    color: #C7C8C8;
+    padding-top: 22px;
+}    
